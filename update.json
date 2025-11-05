@@ -1,0 +1,9 @@
+{
+  "min_supported_version": "2025.0.9.0",
+  "latest_version": "2025.0.9.0",
+  "hard_kill_after": null,
+  "message": "Initial policy live.",
+  "download_url": "https://github.com/J0shS/BOPToolbox-Distrib/releases/latest/download/Setup_BOPToolbox.exe",
+  "sha256_full_build": "PUT_SHA256_HERE",
+  "sig": null
+}
