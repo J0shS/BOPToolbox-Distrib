@@ -4,6 +4,7 @@
   "hard_kill_after": null,
   "message": "Initial policy live.",
   "download_url": "https://github.com/J0shS/BOPToolbox-Distrib/releases/latest/download/Setup_BOPToolbox.exe",
-  "sha256_full_build": "60251654AB014A0622BAAF782DC62D33182619653462E2869EE617301CA94511",
+  "sha256_full_build": "5e7b9fae01e30d92fcb7f9792f1a8c380c13c7deb91d71f4fe982424b4e130f8",
   "sig": null
 }
+
