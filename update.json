@@ -1,10 +1,11 @@
 ﻿{
   "min_supported_version": "0.9.0.0",
-  "latest_version": "0.9.0.0",
+  "latest_version": "0.9.1.0",
   "hard_kill_after": null,
   "message": "Initial policy live.",
   "download_url": "https://github.com/J0shS/BOPToolbox-Distrib/releases/latest/download/Setup_BOPToolbox.exe",
   "sha256_full_build": "5e7b9fae01e30d92fcb7f9792f1a8c380c13c7deb91d71f4fe982424b4e130f8",
   "sig": null
 }
+
 
